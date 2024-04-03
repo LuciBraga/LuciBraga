@@ -3,6 +3,5 @@
 
 ![](https://media.tenor.com/oC8CSq25wx4AAAAM/baby-yoda-welcome.gif)
 
-Sou a Professora Luci, caso precise entrar em contato---> 📨 Email: luci.braga@escola.pr.gov.br
-
-
+Sou a Professora Luci. 
+Caso precise entrar em contato---> 📨 Email: luci.braga@escola.pr.gov.br📌
