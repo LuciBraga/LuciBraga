@@ -5,7 +5,7 @@ Sou a Professora Luci.
 
 Trabalho com a Disciplina de Pensamento Computacional e Programação.
 
-Cursos disponiveis Através daplataforma Alura, disponivel em > (https://cursos.alura.com.br/my_profile).
+Cursos disponiveis Através daplataforma Alura> (https://cursos.alura.com.br/my_profile).
 
 Caso precise entrar em contato: 📨 Email: luci.braga@escola.pr.gov.br📌
 
