@@ -1,8 +1,10 @@
 ### Oi 👩‍🎓
 ![](https://media.tenor.com/oC8CSq25wx4AAAAM/baby-yoda-welcome.gif)
 
-Sou a Professora Luci. 
-Trabalho com a Disciplina de Pensamento Computacional e Programação. 
+Sou a Professora Luci.
+
+Trabalho com a Disciplina de Pensamento Computacional e Programação.
+
 Cursos disponiveis Através daplataforma Alura, disponivel em > (https://cursos.alura.com.br/my_profile).
 
 Caso precise entrar em contato: 📨 Email: luci.braga@escola.pr.gov.br📌
