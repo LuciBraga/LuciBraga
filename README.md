@@ -3,7 +3,7 @@
 
 Sou a Professora **Luci.**
 
-Trabalho com a Disciplina de **Pensamento Computacional e Programação e Química.**
+Trabalho com aS DisciplinaS de **Pensamento Computacional, Edutech, Educação Financeira,  Robótica,  e Projeto de Vida.**
 
 Cursos disponiveis Através daplataforma Alura> (https://cursos.alura.com.br/my_profile).
 
